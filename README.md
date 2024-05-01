@@ -7,7 +7,6 @@
 - [Built With](#built-with)
 - [Getting Started](#getting-started)
 - [Features](#features)
-- [Screenshots](#screenshots)
 - [Acknowledgements](#acknowledgements)
 
 ## About the Project
