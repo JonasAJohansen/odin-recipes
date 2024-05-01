@@ -23,6 +23,7 @@ This project was built using:
 ## Getting Started
 
 To view the project, simply clone this repository to your local machine and open the `index.html` file in your web browser. Alternatively, you can access the live demo [here](https://jonasajohansen.github.io/odin-recipes/).
+
 git clone https://github.com/JonasAJohansen/Odin-Recipes.git
 
 ## Features
